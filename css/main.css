@@ -16,12 +16,15 @@ h1,h2,h3,h4,h5{
 
 
 .custom-nav{
-    background-color: #CD292F;
+    background-color: #e71721;
+    background: linear-gradient(32deg, rgb(231, 23, 33), rgb(0, 72, 131));
+    background: -webkit-linear-gradient(32deg, rgb(231, 23, 33), rgb(0, 72, 131));
     border: none;
     color: #fff;
     border-radius: 0;
     height: 60px;
 }
+
 
 
 .navbar-default .navbar-nav>li>a{
